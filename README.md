@@ -2,7 +2,7 @@
 repo-for-bioinformatics/
 ├─ README.md
 ├─ .gitignore
-├─ environment.yml            # 或 requirements.txt（二选一）
+├─ environment.yml
 ├─ docs/                      # 课程笔记与知识整理
 │  ├─ syllabus.md
 │  ├─ notes/
@@ -27,7 +27,7 @@ repo-for-bioinformatics/
 │     ├─ notebooks/
 │     ├─ configs/
 │     └─ outputs/
-├─ src/                       # 你沉淀的通用代码（可复用库）
+├─ src/                       # 通用代码（可复用库）
 ├─ scripts/                   # 可执行脚本：下载/跑流程/批处理
 ├─ data/                      # 全局共享数据（谨慎提交大文件）
 │  ├─ raw/
