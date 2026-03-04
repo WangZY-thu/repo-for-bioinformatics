@@ -1,3 +1,4 @@
+```text
 repo-for-bioinformatics/
 ├─ README.md
 ├─ .gitignore
@@ -36,3 +37,4 @@ repo-for-bioinformatics/
    ├─ figures/
    ├─ tables/
    └─ logs/
+```
